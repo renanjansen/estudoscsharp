@@ -1,0 +1,13 @@
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.exe
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.deps.json
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.runtimeconfig.json
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.runtimeconfig.dev.json
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.dll
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\bin\Debug\netcoreapp3.1\atv1Pedidos.pdb
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.csprojAssemblyReference.cache
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.AssemblyInfoInputs.cache
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.AssemblyInfo.cs
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.dll
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.pdb
+C:\Users\Vivi Freire\Documents\Senac\atv1Pedidos\obj\Debug\netcoreapp3.1\atv1Pedidos.genruntimeconfig.cache

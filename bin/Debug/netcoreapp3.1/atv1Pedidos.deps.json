@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "atv1Pedidos/1.0.0": {
+        "runtime": {
+          "atv1Pedidos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "atv1Pedidos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
